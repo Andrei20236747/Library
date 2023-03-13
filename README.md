@@ -97,7 +97,7 @@ namespace Библиотека_техникума
                     parol.Focus();
                 }
                 else
-                    MessageBox.Show("Id отсутствует в БД");
+                    MessageBox.Show("Id отсутствует в Базу Данных");
             }
         }
 
